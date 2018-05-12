@@ -1,5 +1,8 @@
 _repo: The-Young-Engineers-in-Nevada--13-Or-Seeking-Fortune-on-the-Turn-of-a-Pick_12777
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Hancock, H. Irving (Harrie Irving)
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2034
     wikipedia: http://en.wikipedia.org/wiki/H._Irving_Hancock
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12777#The-Young-Engineers-in-Nevada--13-Or-Seeking-Fortune-on-the-Turn-of-a-Pick
 gutenberg_bookshelf: Children's Book Series
 gutenberg_issued: '2004-06-29'
 gutenberg_type: Text
